@@ -1,4 +1,5 @@
 # taiyo.ai_assignment_frontend
+Assignment for Taiyo.AI. Contact Management app using Typescript, ReactJS, TailwindCSS, React Query, React Redux and React Router
 <p>In this app, the user can add a contact by clicking on create contact button, and a pop-up will show one form, fill that form with name, last name, and status attributes.</p>
 
 <p>There is a validation of attributes like u can’t post any contact without all the attributes.</p>
